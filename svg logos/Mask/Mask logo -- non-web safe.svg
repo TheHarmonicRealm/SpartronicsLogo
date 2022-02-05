@@ -8,11 +8,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:export-ydpi="300"
-   inkscape:export-xdpi="300"
-   inkscape:export-filename="C:\Users\gener\Documents\Spartronics logo\mask logo fixed.png"
+   inkscape:export-ydpi="53.333332"
+   inkscape:export-xdpi="53.333332"
+   inkscape:export-filename="C:\Users\gener\Documents\Programming\SpartronicsLogo\png logos\Original\1000x1000 without background.png"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="accurate mask logo.svg"
+   sodipodi:docname="Mask logo -- non-web safe.svg"
    id="svg8"
    version="1.1"
    viewBox="0 0 476.24999 476.25002"
@@ -98,11 +98,11 @@
      units="px"
      showgrid="true"
      inkscape:document-rotation="0"
-     inkscape:current-layer="g1703"
+     inkscape:current-layer="layer2"
      inkscape:document-units="px"
-     inkscape:cy="832.45065"
-     inkscape:cx="1051.176"
-     inkscape:zoom="0.29816337"
+     inkscape:cy="1107.7938"
+     inkscape:cx="834.94264"
+     inkscape:zoom="0.59632674"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -123,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -134,7 +134,7 @@
      height="476.25"
      width="476.25"
      id="rect1525"
-     style="opacity:0.997;fill:#1455fb;stroke-width:27.9544;stop-color:#000000" />
+     style="display:inline;opacity:0.997;fill:#1455fb;stroke-width:27.9544;stop-color:#000000" />
   <g
      id="layer1"
      inkscape:groupmode="layer"
@@ -168,16 +168,16 @@
       <text
          inkscape:label="4915 text"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6331px;line-height:1.25;font-family:'SF TransRobotics';-inkscape-font-specification:'SF TransRobotics';display:inline;fill:#fcff00;fill-opacity:1;stroke-width:0.693885"
-         x="199.0863"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.45px;line-height:1.25;font-family:'SF TransRobotics';-inkscape-font-specification:'SF TransRobotics';text-align:center;letter-spacing:7.9375px;text-anchor:middle;display:inline;opacity:1;fill:#fcff00;fill-opacity:1;stroke-width:0.693885"
+         x="238.43217"
          y="377.10458"
          id="text2438"
          transform="scale(0.99879275,1.0012087)"><tspan
            sodipodi:role="line"
            id="tspan2436"
-           x="199.0863"
+           x="242.40092"
            y="377.10458"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.6331px;font-family:'SF TransRobotics';-inkscape-font-specification:'SF TransRobotics';fill:#fcff00;fill-opacity:1;stroke-width:0.693885">4915</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.45px;font-family:'SF TransRobotics';-inkscape-font-specification:'SF TransRobotics';text-align:center;text-anchor:middle;fill:#fcff00;fill-opacity:1;stroke-width:0.693885">4915</tspan></text>
       <text
          inkscape:label="close circle text"
          xml:space="preserve"
@@ -196,16 +196,25 @@
          id="ellipse1535" />
     </g>
   </g>
-  <path
-     style="display:inline;fill:#fcff00;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 299.58321,277.24155 c 6.15709,-0.89533 7.27448,-2.26314 10.91173,-3.39471 l 0.0788,18.1901 -17.56016,8.347 z"
-     id="path892"
-     sodipodi:nodetypes="ccccc"
-     inkscape:label="covering up hole" />
-  <path
-     id="path932-2"
-     style="display:inline;fill:#0437bb;fill-opacity:1;stroke:#fcff00;stroke-width:2.77813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:label="mask round 6 dark"
-     d="m 318.82292,281.78125 c -22.5212,12.59922 -10.00334,18.13068 -64.18005,14.50843 l -7.66689,20.21181 c 0,0 -7.84455,3.0703 60.93029,35.02305 18.46831,-18.09668 41.42777,-52.27656 10.91665,-69.74329 z"
-     sodipodi:nodetypes="ccccc" />
+  <g
+     inkscape:label="Mask stuff"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <g
+       transform="translate(32.222769,37.350358)"
+       id="g872">
+      <path
+         inkscape:label="covering up hole"
+         sodipodi:nodetypes="ccccc"
+         id="path892"
+         d="m 267.36037,239.89128 c 6.15709,-0.89533 7.27448,-2.26314 10.91173,-3.39471 l 0.0788,18.1901 -17.56016,8.347 z"
+         style="display:inline;fill:#fcff00;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         d="m 286.60008,244.43098 c -22.5212,12.59922 -10.00334,18.13068 -64.18005,14.50843 l -7.66689,20.21181 c 0,0 -7.84455,3.0703 60.93029,35.02305 18.46831,-18.09668 41.42777,-52.27656 10.91665,-69.74329 z"
+         inkscape:label="mask round 6 dark"
+         style="display:inline;fill:#0437bb;fill-opacity:1;stroke:#fcff00;stroke-width:2.77813;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path932-2" />
+    </g>
+  </g>
 </svg>
